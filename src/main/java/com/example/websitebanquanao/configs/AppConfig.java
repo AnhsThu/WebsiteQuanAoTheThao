@@ -1,4 +1,4 @@
-package com.example.websitebanquanao.config;
+package com.example.websitebanquanao.configs;
 
 import com.example.websitebanquanao.infrastructures.filters.AdminFilter;
 import com.example.websitebanquanao.infrastructures.filters.UserFilter;
